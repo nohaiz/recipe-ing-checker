@@ -1,0 +1,20 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding: 10px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.available {
+  color: green;
+}
+
+.missing {
+  color: red;
+  font-weight: bold;
+}
